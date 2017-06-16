@@ -6,7 +6,7 @@ These are project ideas submitted by members that might not have a leader yet (m
 
 ## Browse Project Ideas
 
-Thinking about starting a new project? Want to see what ideas other members have submitted? Check out project ideas here.
+Thinking about starting a new project? Want to see what ideas other members have submitted? Check out project ideas [here](https://github.com/Data4Democracy/project-ideas/issues).
 
 See a project that looks interesting? Click on it and feel free to join the discussion.
 
@@ -14,12 +14,12 @@ See a project that looks interesting? Click on it and feel free to join the disc
 
 Got an idea for a new project and want to share it with our community? Get started by following these steps!
 
-Take a quick look at our existing project ideas to see if a similar idea already exists. If it does, feel free to click on the project, read the discussion, and add your comments!
+Take a quick look at our [existing project ideas](https://github.com/Data4Democracy/project-ideas/issues) to see if a similar idea already exists. If it does, feel free to click on the project, read the discussion, and add your comments!
 If your idea isn't already listed, add it.
 
 ### Adding Your Idea
 
-On the Issues tab, click the green "New Issue" button.
+On the [Issues tab](https://github.com/Data4Democracy/project-ideas/issues), click the green "New Issue" button.
 Add a title and a description for your idea. The more info you can provide, the better! That will help other members understand your idea and be more inclined to jump on board.
 Make sure to also add some labels to the project. This allows others to easily search the projects and to see what your idea might involve.
 D4D community memebers will likely comment with some questions or feedback and next steps on how to get other members involved.
